@@ -9,7 +9,7 @@ import java.util.Date
 
 class LodDebugUtil {
     var txtLog:String = ""
-    var tag:String="SUPER_APP_KOTLIN"
+    var tag:String="SUPER_APP_KOTLIN_1"
 
     @SuppressLint("SimpleDateFormat")
     fun printLog(mensaje:String){
